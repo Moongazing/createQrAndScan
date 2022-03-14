@@ -1,0 +1,12 @@
+C:\Users\Moongazing\source\repos\kareKodOlusturmaVeOkuma\kareKodOlusturmaVeOkuma\obj\Debug\kareKodOlusturmaVeOkuma.csproj.AssemblyReference.cache
+C:\Users\Moongazing\source\repos\kareKodOlusturmaVeOkuma\kareKodOlusturmaVeOkuma\obj\Debug\kareKodOlusturmaVeOkuma.Form1.resources
+C:\Users\Moongazing\source\repos\kareKodOlusturmaVeOkuma\kareKodOlusturmaVeOkuma\obj\Debug\kareKodOlusturmaVeOkuma.Properties.Resources.resources
+C:\Users\Moongazing\source\repos\kareKodOlusturmaVeOkuma\kareKodOlusturmaVeOkuma\obj\Debug\kareKodOlusturmaVeOkuma.csproj.GenerateResource.cache
+C:\Users\Moongazing\source\repos\kareKodOlusturmaVeOkuma\kareKodOlusturmaVeOkuma\obj\Debug\kareKodOlusturmaVeOkuma.csproj.CoreCompileInputs.cache
+C:\Users\Moongazing\source\repos\kareKodOlusturmaVeOkuma\kareKodOlusturmaVeOkuma\bin\Debug\kareKodOlusturmaVeOkuma.exe.config
+C:\Users\Moongazing\source\repos\kareKodOlusturmaVeOkuma\kareKodOlusturmaVeOkuma\bin\Debug\kareKodOlusturmaVeOkuma.exe
+C:\Users\Moongazing\source\repos\kareKodOlusturmaVeOkuma\kareKodOlusturmaVeOkuma\bin\Debug\kareKodOlusturmaVeOkuma.pdb
+C:\Users\Moongazing\source\repos\kareKodOlusturmaVeOkuma\kareKodOlusturmaVeOkuma\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Moongazing\source\repos\kareKodOlusturmaVeOkuma\kareKodOlusturmaVeOkuma\obj\Debug\kareKodOlusturmaVeOkuma.csproj.CopyComplete
+C:\Users\Moongazing\source\repos\kareKodOlusturmaVeOkuma\kareKodOlusturmaVeOkuma\obj\Debug\kareKodOlusturmaVeOkuma.exe
+C:\Users\Moongazing\source\repos\kareKodOlusturmaVeOkuma\kareKodOlusturmaVeOkuma\obj\Debug\kareKodOlusturmaVeOkuma.pdb
